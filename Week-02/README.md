@@ -6,4 +6,5 @@ Homework For Week:
 
 - Reflection: Above^
 - Readings: My response was posted on the class Wordpress
-- Map Assignment: Picture is in this folder
+- Map Assignment: Deliverables on class site
+- Layers of Responsbility sheet: done (for Yonkers), so one of the rows was not applicable. Picture in this folder
