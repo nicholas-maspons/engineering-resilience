@@ -1,10 +1,6 @@
-# Reflection
-
-I think preparing and communicating even prior to any bad situation makes a community resilient. I feel that personal resilience is different in the way that how you prepare on your own compared to as a community is different. They are related because you should be resilient as an individual before being so as part of a community. I think Boy Scouts would be an example of a resilient community. They just popped into mind, but they teach practical skills such as survival skills and that also makes me think of go bags. 
-
 Homework For Week:
 
-- Reflection: Above^
-- Readings: My response was posted on the class Wordpress
-- Map Assignment: Deliverables on class site
-- Layers of Responsbility sheet: done (for Yonkers), so one of the rows was not applicable. Picture in this folder
+- Reflection: reflection.md
+- Readings: readings.md
+- Map Assignment: map.jpg + assignment.md
+- Layers of Responsbility sheet: layers.JPG | Did for Yonkers, so one of the rows was not applicable. 

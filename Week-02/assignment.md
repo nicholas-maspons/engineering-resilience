@@ -1,0 +1,9 @@
+# Observation Walk Notes: 
+
+I observed how different the area near the water was compared to more inland. The waterfront is more developed, has better roads, and is wealthier. A few blocks inland I saw a lot of potholes, many closed down stores, and this part is known for high poverty rates and crime. I was already aware of this difference. But the new things I noticed were that police cars are more common on the streets at the waterfront. Also, that there is a lot of construction going on in the less developed part. I was aware that there was a difference between these two parts but I never actually walked around in both on the same day.
+
+# Reflection:
+
+The resources I discovered were the community based organizations listed. I was already aware of the YWCA and a nearby YMCA, but the other organizations were new to me. I saw a lot on an official Yonkers city webpage, but I didn't display all of them on the map because there were a lot. And not all of them are based somewhere in this map. I feel like the work of churches and mosques in the area is central to resilience here. There is often food being handed out, and many people can be seen. This has been happening for years. So these groups have helped the community for a while and are a part of it. 
+
+My map is missing a lot of CBOs. So it does not capture the amount of CBOs that there really are. I tried to find a balance so that the map does not become crowded due to too many symbols being on it. An organization I may want to volunteer for is Yonkers My Brother's Keeper. I've helped with this group before and have seen that they make a big impact on the community and helping students throughout Yonkers. 
