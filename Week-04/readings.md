@@ -1,0 +1,9 @@
+# How Does Your State Make Electricity? by By Nadja Popovich and Brad Plume
+
+The graphs used in this article are really interesting, I haven't seen these types of data visualizations before. I was unaware of how much nuclear eneergy was responsible for which surprised me. You can see coal getting squeezed out when it comes to the percentage of electricity it's responsible across multiple states over the years. It is nice to see how clean energy sources are becoming more prevelant over time as concerns about climate change become more serious. There were a few graphs that caught my attention, like West Virginia, who from 2001 to 2019, is almost entirely reliant on coal for electricity. Vermont's is also interesting as there isn't any mention of natural gas or coal being used for their electrcity, though a lot of their electricity is imported, and that could come from any source.
+
+# Solar Protocol: Exploring Energy Centered Design by T. Brain, A. Nathanson and B. Piantella
+
+It's refreshing to see that AI is not used for this platform. It seems like AI gets slapped onto everything when it isn't even needed, which goes for this project. The servers compare power levels from the sun and then it is decided which is the active server.
+
+A question I have is, if traffic is directed to wherever there is the most sunlight, wouldn't that mean people visiting the site where it is night for them experience more latency? The server receiving traffic would be far away from them. But also it's night time so they should be sleeping anyway. And then the people who are awake in the middle of the day visit the site and are going to be closer to the current server. 
