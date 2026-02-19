@@ -1,5 +1,7 @@
 # Deliverables
 
+Pictures of my bot are in this folder
+
 The part I chose to have powered was the one that vibrates. It's been very cloudly lately, but there have been times where the sun powered it, resulting in movement of my bot. It stops as soon as it isn't directly in light. Something interesting I noticed is that it works indoors, but only when placed under specific lights. When I first made the bot, I was in the cafe of 370, and when I placed it under those circular lamps, it did not work. The same goes for when I pointed my phone flashlight at it. However, it worked under other lights, being the light above the mirror in one of the bathrooms, the ceiling light in my dorm kitchen, and the bulb of a lamp back home. The lights in which the bot was powered all had something in common, being that they were more yellow, while the others such as my flashlight were white. So it is a certain type of light that works, but I don't know what the difference was aside from color and the yellow lights being possibly older. 
 
 I think low energy behaviors feel compatible with this energy. There are times where the sun is out and can provide energy, and times when it cannot. And if you want to use the energy when the sun is not out, it needs to be something that won't use up all the energy quickly and then it doesn't work for the rest of the night.
