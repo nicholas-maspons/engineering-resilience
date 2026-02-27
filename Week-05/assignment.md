@@ -1,0 +1,5 @@
+# Deliverables
+
+A picture of my code and arduino are in this folder 
+
+At home, when the sensor was just sitting out, I would get 107. When putting it in dirt that I brought from outside, I got values around 140. It didn't change much each time I put the sensor back in a few hours apart. There was no plant, only dirt. So then I started to water the dirt and the got values up to 300. When I lapced my finger around the sensor, it would only go to 130. So I would consider anything above 200 wet based on my readings, and anything less as dry. I noticed that I couldn't get a value less than 107, which was when it would just sit out, not inside dirt. I want to know how to not let the jumper wires fall out. I have to stick the pins inside but there is no click or anything, so any movement makes them fall. But also since this is meant to just be next to a plant which isn't walking around, it isn't a big deal and maybe it's normal for these wires to slip out due to slight movement?

@@ -1,0 +1,5 @@
+# Reflection
+
+Environmental data I can gather immediately is data about the wind. Not the miles per hour or any number really. But there are some wind chimes near where i live, and that is an indicator that it is somewhat windy at the moment. But they don't store anything. It doesn't have code inside of it of course. There are 3 near me, and I hear them when walking my dogs. 
+
+Another piece of data I observe but overlooked until reading the prompt is the shadows outside. This is not as applicable now, but in the summer yes. I look outside to see where shadows are being casted by the building, and use that to determine when I will walk my dogs. It allows to minimize sun exposure when outside with them. Not that I completely avoid the sun bu still. I look outside and if I see that there are no shadows, I know that there is hardly any shade anywhere along the path I walk the. But earlier or later, I can use the shadow to know where the sun is without directly seeing it and where I would plan to walk my dogs. Not the I have to plan it really now since now I know where the shadows are at certain times of days, but it changes over the course of the year.
