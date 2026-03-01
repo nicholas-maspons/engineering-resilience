@@ -1,0 +1,7 @@
+# The current state of citizen science as a tool for ecological research and public engagement, by JL Dickinson et al.
+
+The topic of citizen science is quite new to me. It sounds like something that can be good for the public through the learning and sharing of data. Even if it is for the benefit of the public, are efforts made to ensure that the volunteers are credited? Also, how can citizen scientists be kept long term if there is no pay and maybe the work can be too time consuming. Citizen science allows the research of things that researchers/scientists would not typically look into which is important. Like the example of the distributing of acorns with the purpose of studying Lyme disease. That is not something scientists would usually do on their own. And the work got published. But this makes me think about scale, and if citizen science and its efforts being recognized requires the work of a lot of people, which in this case did involve that.
+
+# Community Engagements with Living Sensing Systems
+
+This reading talks about how nature can have multiple interpretations, and by putting sensors on everything that simply read and output data, maybe we are overlooking important information / missing context. Is this good or bad for citizen science? The answer probably is not a simple yes or no but I think it is important to ask. The example of people bringing soil when discussing local pollution. Attaching sensors would not get the same information and context as this process did, which is a slower process, but more valuable information.
