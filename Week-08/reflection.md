@@ -1,0 +1,3 @@
+# Reflection
+
+The food I choose is banana because I like them. Their journey starts on plantations in tropical regions such as Guatemala and Ecuador. There are many more places of course. They can take 12 months to grow after planting and grow in clusters. After being harvested, they are sent to packing facilities and are sorted. They are kept in refigerated containers in order to slow ripening. Otherwise they would ripen before even reaching their destination. Then they arrive at a distribution center before being sent to store shelves right before they ripen. This makes me think about how profitable growing bananas even is. There is so much to consider and steps that have to be taken. All of that and I'm still able to buy them for so cheap. It's fascinating
