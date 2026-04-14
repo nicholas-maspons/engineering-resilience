@@ -1,0 +1,7 @@
+# The Care Manifest, Caring Communities (Ch. 3) by The Care Collective
+
+The author starts by talking about how modern life pushes people to isolation and being comeptitive. So by saying this, the author shows how it isn't a failure of a individual that leads ot this isolation, and places the fault on existing social systems. Places like parks and libraries allow for people to share and not be isolated. When I was walking in Washington Square park today I could see people who are strangers to one another connecting through things lile music, sports, and pet interactions. Caring communities do not happen naturally, but can be made through shared spaces like these. So main focus is about the conditions people live in.
+
+# Skim through Envisioning a Caring Democracy (Part 1) by Joan C. Tronto
+
+It is discussed how care sued to happen in private, while politics in public. But the 2008 housing crisis caused a shift where homes were no longer about care and were instead financial assets. Now homes are viewed as investments rather than just their home. It is about getting financial security. To avoid financial distress, people work more, which then means less time for care, which can lead to more spending to make up for it. So in the end it is just consumption replacing care. Now that care is no longer just in homes, it would make the topic something to be addressed by politics.

@@ -1,0 +1,3 @@
+# Reflection
+
+Something I discard is milk cartons. I drink a lot of milk and so I end up going through a lot of small cartons from the school cafeteria. Thinking of how these can be reused, I first thought of how the shape of the container can be beneficial. They can be used as pots for plants. Even thought I don't grow plants now, I did think of how I might grow something in the future. And I would not have to buy plant pots since I can use these small cartons. I think I would just have to cut the top part off and I can recycle those smaller pieces of the carton. Also, these coulddd be used to hold pens/pencils, but I don't want an empty milk carton sitting on my desk forever.

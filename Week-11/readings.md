@@ -1,0 +1,7 @@
+# The Serviceberry: Abundance and Reciprocity in the Natural World, by Robin Wall Kimmerer (pg 8-10)
+
+When the hunter talked about stored to food in his brother's belly, it makes me think of how wealth is not something you accumulate but it is what you give because you have enough to share. This was a new way of thinking of wealth for me but still made sense once it was stated that it works best in closeknit communities. I would always exclusively think of wealth as having accumulated a lot and that was all, but not it being about having enough to give. Not that I don't gove,and not that I'm constantly thinking of the word "wealth" but I have not thought about the word in that way.
+
+# Three Key Elements of Mutual Aid, by Dean Spade (pg 9-20)
+
+The Black Panther breakfast program made it hard to justify getting rid of the Black Panther Party because it wouldn't be a good look to try and take down a free food program. This shows how doing good for a community can help efforts to organize it. The government can't really argue against something like this so the worked around and faked letters, and arrested leadership. The goverment could not beat them on moral grounds so they had to do so in other ways
